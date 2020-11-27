@@ -66,7 +66,7 @@
                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
                   <div class="full">
                      <div class="center-desk">
-                        <div class="logo"> <a href="index.html"><img src="images/logo.jpg" alt="logo"/></a> </div>
+                        <div class="logo"> <a href="index.jsp"><img src="images/logo.jpg" alt="logo"/></a> </div>
                      </div>
                   </div>
                </div>
@@ -75,8 +75,8 @@
                      <div class="limit-box">
                         <nav class="main-menu">
                            <ul class="menu-area-main">
-                              <li class="active"> <a href="index.html">Home</a> </li>
-                              <li> <a href="about.html">About</a> </li>
+                              <li class="active"> <a href="index.jsp">Home</a> </li>
+                              <li> <a href="index.jsp">About</a> </li>
                                
                            </ul>
                         </nav>
